@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:/home/zhiangz/EplusEngine/tests/1ZoneUncontrolled_win_1.rvi
+ input file:/home/zhiangz/EplusEngine/tests/1ZoneUncontrolled_win_1_res/eplusout.eso
+ output file:/home/zhiangz/EplusEngine/tests/1ZoneUncontrolled_win_1_res/eplusout.csv
+ getting all vars from:/home/zhiangz/EplusEngine/tests/1ZoneUncontrolled_win_1_res/eplusout.eso
+  number variables requested for output=          12
+ ReadVars Run Time=00hr 00min  0.03sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:/home/zhiangz/EplusEngine/tests/1ZoneUncontrolled_win_1.mvi
+ input file:/home/zhiangz/EplusEngine/tests/1ZoneUncontrolled_win_1_res/eplusout.mtr
+ output file:/home/zhiangz/EplusEngine/tests/1ZoneUncontrolled_win_1_res/eplusmtr.csv
+ getting all vars from:/home/zhiangz/EplusEngine/tests/1ZoneUncontrolled_win_1_res/eplusout.mtr
+  number variables requested for output=           2
+ ReadVars Run Time=00hr 00min  0.03sec
+ ReadVarsESO program completed successfully.
